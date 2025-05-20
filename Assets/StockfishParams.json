@@ -1,0 +1,7 @@
+{
+	"Threads": 10,
+	"Hash": 512,
+	"Debug Log File": "C:\\Users\\Windows\\OneDrive\\Desktop\\Projects\\ChessAnalyzer\\Debug.txt",
+	"depth": 25,
+	"botdepth": 15
+}
