@@ -11,7 +11,7 @@ pygame.mixer.init()
 pygame.font.init()
 pygame.init()
 
-ProjectPath = "C:\\Users\\Windows\\OneDrive\\Desktop\\Projects\\ChessAnalyzer"
+ProjectPath = sys.path[0]
 AssetsPath = join(ProjectPath, "Assets")
 PremovesPath = join(AssetsPath, "Premoves.json")
 
